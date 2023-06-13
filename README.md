@@ -1,7 +1,7 @@
 # Pokemon_College
 Simulation of a Pokemon battle
 
-Los archivos csv adjuntos unicamente se emplean para la lectura de los mismo, dado que contienen la información necesario para su ejecución.
+Los archivos csv adjuntos unicamente se emplean para la lectura de los mismo, dado que contienen la información necesaria para la ejecución del programa.
 
 ## moves.py
 Es un archivo .py que contiene la lista de movimientos, este archivo fue suministrado por el profesor acargo de la materia.

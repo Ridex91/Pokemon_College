@@ -13,6 +13,6 @@ Es el archivo en el cual se desempeña la labor de lectura de archivos csv y la 
 Es el programa completo que añade clases junto a la utilización de listas.
 
 ## Ridex2.py
-Es el programa completo solo con la utilización de listas.
+Es otra versión del programa solo que con la utilización de listas.
 
 Espero les sea de utilidad esta información y sí les es posible realicen mejoras :D
